@@ -1,2 +1,4 @@
 "this is the 'b' file"  
 "b is changed"  
+"b is changes again" 
+"b is changes again 2" 
